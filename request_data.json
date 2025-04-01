@@ -1,0 +1,14 @@
+{
+	"urlCriacao": "https://api.tomticket.com/v2.0/ticket/new",
+	"urlReplyCustumer": "https://api.tomticket.com/v2.0/ticket/reply/customer",
+	"urlFinalization": "https://api.tomticket.com/v2.0/ticket/finish",
+	"Authorization": "c4e50e0862a0249d97b5de3585162d815852e1c06ab0efd55db2fc9533dae52c",
+	"Content-Type": "multipart/form-data",
+	"customer_id": "35337331000104",
+	"customer_id_type": "I",
+	"subject": "Troca de POS - Payer",
+	"department_id": "0414e1bd20d6cefcd74b25436b4d4c02",
+	"category_id": "aa1e843f44cf40f1f65195f877fcfbde",
+	"message": "Necessário realizar a troca",
+	"priority": 2
+}
